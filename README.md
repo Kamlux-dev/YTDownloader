@@ -31,6 +31,7 @@
   <li><b>Otwórz aplikację.</b></li>
   <li><b>Wklej link do filmu z YouTube (np. https://www.youtube.com/watch?v=dQw4w9WgXcQ).</b></li>
   <li><b>Wybierz pożądaną rozdzielczość (np. 720p).</b></li>
+  <li><b>Wybierz pożądany format pliku (np. .mp4).</b></li>
   <li><b>Kliknij „Pobierz” i czekaj do momentu gdy wyskoczy okno informujące iż film został pobrany</b></li>
   <li><b>Film zostanie pobrany do folderu YouTubeDownloads</b></li>
 </ol>
