@@ -26,7 +26,7 @@
 </ul>
 
 <h2>Jak pobrać aplikację?</h2>
-<p>Wybierz wydanie które spełnia Twoje wymagania w sekcji "Releases" a następnie pobierz klikając "Source code".</p>
+<p>Wybierz wydanie które spełnia Twoje wymagania w sekcji "Releases" a następnie pobierz klikając katalog z daną wersją np. "YTDownloader v1.0.0".</p>
 
 <h2>Użytkowanie z apliacji</h2>
 <ol>
