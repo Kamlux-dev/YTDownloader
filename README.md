@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/dc01a69e-8ca7-48af-922c-c1c426e1d9aa)
+![Zrzut ekranu 2025-01-31 223022](https://github.com/user-attachments/assets/6726bc76-e31b-48ae-a630-1a0835679f55)
+![Zrzut ekranu 2025-01-31 223043](https://github.com/user-attachments/assets/ce0a4d96-a69d-4aed-9663-07c026983e47)
 
 <br>
 <h1>YT Downloader</h1>
