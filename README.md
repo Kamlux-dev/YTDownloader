@@ -1,4 +1,5 @@
-![Zrzut ekranu 2025-01-31 162315](https://github.com/user-attachments/assets/14de0997-d556-4e54-81dc-a066c8d7e8d7)
+![image](https://github.com/user-attachments/assets/dc01a69e-8ca7-48af-922c-c1c426e1d9aa)
+
 <br>
 <h1>YT Downloader</h1>
 <p>YT Downloader to aplikacja stworzona w języku Python z intuicyjnym interfejsem graficznym (GUI), która umożliwia pobieranie filmów z YouTube. Użytkownicy mogą wkleić link do filmu, wybrać preferowaną rozdzielczość, a następnie pobrać wideo na swój komputer. Aplikacja automatycznie tworzy folder „YouTubeDownloads”, do którego zapisują się pobrane pliki.</p>
