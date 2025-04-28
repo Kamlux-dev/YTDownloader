@@ -26,6 +26,7 @@
 </ul>
 
 <h2>Jak pobrać aplikację?</h2>
+<h3>Uwaga! </h3><p>Aby aplikacja działała poprawnie, konieczne jest zainstalowanie FFmpeg na swoim komputerze.FFmpeg jest narzędziem do przetwarzania plików multimedialnych (audio i wideo).</p>
 <p>Wybierz wydanie które spełnia Twoje wymagania w sekcji "Releases" a następnie pobierz klikając katalog z daną wersją np. "YTDownloader v1.0.0".</p>
 
 <h2>Użytkowanie z apliacji</h2>
@@ -37,7 +38,7 @@
   <li><b>Kliknij „Pobierz” i czekaj do momentu gdy wyskoczy okno informujące iż film został pobrany</b></li>
   <li><b>Film zostanie pobrany do folderu YouTubeDownloads</b></li>
 </ol>
-<p><b>!Podczas pobierania nieprzeprowadzaj żadnych operacji by nie osiągnąć nie pożądanych rezultatów</b></p>
+<p><b>Podczas pobierania nieprzeprowadzaj żadnych operacji by nie osiągnąć nie pożądanych rezultatów</b></p>
 
 <h3>⚠️Uwaga!</h3>
 <li><b>Aplikacja pobiera filmy z YouTube tylko do celów osobistych. Proszę zapoznać się z polityką YouTube dotyczącą pobierania treści.</b></li>
